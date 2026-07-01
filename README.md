@@ -4,7 +4,7 @@ I build AI operations systems — agents, automations, and data pipelines that r
 
 ### What I'm building
 
-**[Goldfish](https://github.com/Nadreau/goldfish)** — Give your AI a photographic memory. Captures your screen via local OCR and exposes it through MCP so any AI assistant (Claude Desktop, Claude Code, Cursor, Windsurf) remembers what you're working on. Local-first, macOS, Apache 2.0.
+**[Goldfish](https://github.com/Nadreau/goldfish)** — Give your AI a photographic memory. Captures your screen via local OCR and exposes it through MCP so any AI assistant (Claude Desktop, Claude Code, Cursor, Windsurf) remembers what you're working on. Local-first, macOS, Apache 2.0. Patent pending.
 
 ### Where I work
 
@@ -17,6 +17,6 @@ First student AI research consultant for Penn State's Propel Seed Fund (40+ star
 
 ### Contact
 
-- nikonadreau@gmail.com
+- nikonadreau3.14@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/niko-nadreau-106938232/)
 - [@NikoNadreau](https://x.com/NikoNadreau) on X
