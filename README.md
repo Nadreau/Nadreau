@@ -1,6 +1,6 @@
 # Niko Nadreau
 
-I build AI operations systems — agents, automations, and data pipelines that real organizations run on. Penn State Smeal '26 (BS Corporate Innovation & Entrepreneurship). Currently AI Operations at Bluon, full-time.
+I build agentic infrastructure — the automation systems and data pipelines that real organizations run on. Penn State Smeal '26 (BS Corporate Innovation & Entrepreneurship). Currently AI Operations at Bluon, full-time.
 
 ### What I'm building
 
@@ -8,7 +8,7 @@ I build AI operations systems — agents, automations, and data pipelines that r
 
 ### Where I work
 
-- **Bluon** — AI Operations for a $100M+ HVAC tech platform serving 100K+ technicians. Agent pipelines, paid-media automation across Meta/Google/OpenAI, CRM migrations, automated sales-call coaching, market-intelligence scrapers, and daily reporting infrastructure. Most of it lives in private repos here.
+- **Bluon** — AI Operations for the HVAC industry's leading tech platform, used by 100K+ technicians. Agentic infrastructure, paid-media automation across Meta/Google/OpenAI, CRM migrations, automated sales-call coaching, market-intelligence scrapers, and daily reporting infrastructure. Most of it lives in private repos here.
 - **Nade LLC** — Independent product and consulting work. Home of the Core Carry wallet brand — People's Choice winner at Penn State's $30,000 Inc. U Pitch Competition.
 
 ### Before that
